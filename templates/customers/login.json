@@ -1,10 +1,12 @@
 {
   "sections": {
-    "main": {
-      "type": "main-login"
+    "core": {
+      "type": "core",
+      "settings": {
+      }
     }
   },
   "order": [
-    "main"
+    "core"
   ]
 }
